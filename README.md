@@ -2,6 +2,7 @@
 - 새 술은 새 부대에
 - 새 레포는 새 아이디에
 
+[이전 아이디](https://github.com/NBJ1995)
 
 <!---
 CurlyBat/CurlyBat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
